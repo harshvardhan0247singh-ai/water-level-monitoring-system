@@ -60,10 +60,18 @@ As the team leader, I was primarily responsible for the system design, hardware 
 - Developing and testing an embedded-system prototype
 
 ## Project Images
-<img width="3456" height="4608" alt="IMG_20251117_110703_851" src="https://github.com/user-attachments/assets/b31c0f65-2107-407a-8d51-47b186a17745" />
-<img width="3456" height="4608" alt="IMG_20251117_125454_291" src="https://github.com/user-attachments/assets/205a8e67-7182-4521-bb55-7316b96510dd" />
-<img width="3456" height="4608" alt="IMG_20251124_005529_968" src="https://github.com/user-attachments/assets/c160313d-8ec9-4af8-afbe-74237d57baaf" />
 
+### Water Level Measurement
+
+![Water Level Display](images/Water_level_display.jpg)
+
+### User Interface
+
+![System Interface](images/Welcome_interface.jpg)
+
+### Internal Hardware
+
+![Internal Hardware](images/Internal_components.jpg)
 
 ## Future Improvements
 Possible improvements include:
