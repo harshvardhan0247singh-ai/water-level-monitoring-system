@@ -63,15 +63,15 @@ As the team leader, I was primarily responsible for the system design, hardware 
 
 ### Water Level Measurement
 
-![Water Level Display](images/Water_level_display.jpg)
+![Water Level Display](Images/Water_level_display.jpg)
 
 ### User Interface
 
-![System Interface](images/Welcome_interface.jpg)
+![System Interface](Images/Welcome_interface.jpg)
 
 ### Internal Hardware
 
-![Internal Hardware](images/Internal_components.jpg)
+![Internal Hardware](Images/Internal_components.jpg)
 
 ## Future Improvements
 Possible improvements include:
